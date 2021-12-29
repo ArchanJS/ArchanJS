@@ -79,7 +79,7 @@
 
 ---
 
-**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
+**Fun Fact ⚡**: _I'm available 🙋‍♂️ to grab a **coffee** ☕ 🙊_
 
 ---
 
@@ -87,4 +87,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/ArchanJS)
 
-Leave a ⭐ from [here](https://github.com/ArchanJS/ArchanJS) if you like 😁
+Leave a ⭐ [here](https://github.com/ArchanJS/ArchanJS) if you like 😁
