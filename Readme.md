@@ -4,7 +4,6 @@
 
 #### Welcome to my profile 💻
 
-* SDE Intern  @Rupeek
 * Mentor @Relevel by Unacademy
 * Former Backend Developer Intern @Kylo Apps
 * 14 Hackthons 👨‍💻
