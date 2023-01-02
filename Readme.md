@@ -44,7 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArchanJS&repo=Arjd-Live&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=MediBoard&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArchanJS&repo=femaissance&show_icons=true&theme=tokyonight"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Letter-Generator&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArchanJS&repo=Genletter&show_icons=true&theme=tokyonight">
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
