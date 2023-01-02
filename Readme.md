@@ -4,10 +4,12 @@
 
 #### Welcome to my profile 💻
 
-* GirlScript National & Regional Summit Hackathon Winner  👨‍💻
-* GirlScript 21U21 Award Winner ✨
-* GirlScript Portfolio Development Contest Winner 🎓
+* SDE Intern  @Rupeek
+* Mentor @Relevel by Unacademy
+* Former Backend Developer Intern @Kylo Apps
+* 14 Hackthons 👨‍💻
 * MERN Stack Developer 🌐
+* Problem solver🎓
 * ECE, 2023  👨‍💻
 * **Hobbies**: 🎸 and 🎤 
 * Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/archan-banerjee-9747781b0/) ! 
